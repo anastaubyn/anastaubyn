@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='ANA ST.AUBYN.png'>
+<img src='ANA ST.AUBYN.png' style='margin:0'>
 
 <!--
 **anastaubyn/anastaubyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
