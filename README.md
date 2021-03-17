@@ -5,6 +5,7 @@ My name is Ana and here you can find projects I did in the scope of my [Masters]
 Feel free to contact me for any suggestion or if you need help with anything.
 
 Email: <a href="mailto:anacstaubyn@gmail.com">anacstaubyn@gmail.com</a>
+<br>
 Linkedin: [Ana St. Aubyn](https://www.linkedin.com/in/ana-st-aubyn/)
 
 <!--
