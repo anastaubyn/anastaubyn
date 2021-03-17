@@ -1,6 +1,11 @@
-### Hi there 👋
-
 <img src='ANA ST.AUBYN.png' style='margin:0'>
+
+My name is Ana and here you can find projects I did in the scope of my [Masters](https://www.novaims.unl.pt/mdsaa-ds) and just for fun 😄
+
+Feel free to contact me for any suggestion or if you need help with anything.
+
+Email: <a href="mailto:anacstaubyn@gmail.com">anacstaubyn@gmail.com</a>
+Linkedin: [Ana St. Aubyn](https://www.linkedin.com/in/ana-st-aubyn/)
 
 <!--
 **anastaubyn/anastaubyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
